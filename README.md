@@ -26,7 +26,7 @@ COMPOSE_PROJECT_NAME={プロジェクト名}
 ```
 
 ### 2. Git
-- www配下にgit cloneしたプロジェクトのディレクトリをhtmlフォルダとして配置
+- ルートディレクトリにwwwフォルダを作成し、www配下にgit cloneしたプロジェクトのディレクトリをhtmlフォルダとして配置
  ```
  # git cloneしたディレクトリ上で実行
  $ cd www
